@@ -1,4 +1,4 @@
-greeting: Hello from Service A, with @RefreshScope
+greeting: Hello from Service A, with @RefreshScope - Ibrahim Abulubad
 
 server:
   port: 8090
